@@ -1,0 +1,23 @@
+ul{
+    background-color: #000000;
+    list-style-type: none;
+    padding: 10px;
+}
+li{
+    background-color: #008000;
+    border: darkgreen;
+    display: inline;
+    padding: 10px;
+}
+
+li a{
+    color: #FFFFFF;
+}
+
+li a:hover{
+    background-color: #FF0000;
+}
+
+li:hover{
+    background-color: darkgreen;
+}
